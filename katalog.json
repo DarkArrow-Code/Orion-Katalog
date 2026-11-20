@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "gdb",
+      "name": "GDB",
+      "version": "17.2",
+      "kategorie": "Entwicklung",
+      "beschreibung": "Debugger – Programme Schritt für Schritt untersuchen",
+      "befehl": "orion-terminal gdb",
+      "symbol": {
+        "glyphe": "bug",
+        "farbe": "#D12F3A"
+      },
+      "groesse": 19611648,
+      "sha256": "4284d4e1a8f85bd2c8433f34d04f28269cb7c6dbf1a61fb34ffeef3a891df2a8",
+      "url": "https://github.com/DarkArrow-Code/orion-katalog/raw/main/apps/orion-gdb-17.2.raw"
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "version": "2.55.0",
+      "kategorie": "Entwicklung",
+      "beschreibung": "Versionsverwaltung – Code verwalten, klonen und teilen",
+      "befehl": "orion-terminal",
+      "symbol": {
+        "glyphe": "git-branch",
+        "farbe": "#C2540A"
+      },
+      "groesse": 26976256,
+      "sha256": "6f22704a067bc58179a8d87585ea827bed3d4bbdd31b125d38d12357110e8422",
+      "url": "https://github.com/DarkArrow-Code/orion-katalog/raw/main/apps/orion-git-2.55.0.raw"
+    },
+    {
+      "id": "vim",
+      "name": "Vim",
+      "version": "9.2.1025",
+      "kategorie": "Entwicklung",
+      "beschreibung": "Texteditor für das Terminal",
+      "befehl": "orion-terminal vim",
+      "symbol": {
+        "glyphe": "code",
+        "farbe": "#24813A"
+      },
+      "groesse": 34140160,
+      "sha256": "1f9189aaa70b7c4ab36e57d2511793e27cd817b3496f275b173abc6a62fa2e38",
+      "url": "https://github.com/DarkArrow-Code/orion-katalog/raw/main/apps/orion-vim-9.2.1025.raw"
+    }
+  ]
+}
